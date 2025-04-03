@@ -1,0 +1,1479 @@
+[
+  {
+    "name": "Khalid Abed",
+    "department": "Electrical & Computer Engineering",
+    "email": "khalid.h.abed@jsums.edu",
+    "college": "CSET",
+    "filename": "KhalidAbed.html"
+  },
+  {
+    "name": "Ali Abu-EL Humos",
+    "department": "Computer Science",
+    "email": "ali.abu-el_humos@jsums.edu",
+    "college": "CSET",
+    "filename": "AliAbu-ELHumos.html"
+  },
+  {
+    "name": "Hafiz Ahmad",
+    "department": "Biology",
+    "email": "hafiz.a.ahmad@jsums.edu",
+    "college": "CSET",
+    "filename": "HafizAhmad.html"
+  },
+  {
+    "name": "Kamal Ali",
+    "department": "Industrial Systems & Technology",
+    "email": "kamal.ali@jsums.edu",
+    "college": "CSET",
+    "filename": "KamalAli.html"
+  },
+  {
+    "name": "Naomi Campbell",
+    "department": "Chemistry & Biochemistry",
+    "email": "naomi.f.campbell@jsums.edu",
+    "college": "CSET",
+    "filename": "NaomiCampbell.html"
+  },
+  {
+    "name": "Daning Chen",
+    "department": "Mathematics & Statistical Sciences",
+    "email": "daning.chen@jsums.edu",
+    "college": "CSET",
+    "filename": "DaningChen.html"
+  },
+  {
+    "name": "Frances Dancer",
+    "department": "Computer Science",
+    "email": "frances.c.dancer@jsums.edu",
+    "college": "CSET",
+    "filename": "FrancesDancer.html"
+  },
+  {
+    "name": "Dalephine Davis",
+    "department": "Chemistry & Biochemistry",
+    "email": "dalephine.e.davis@jsums.edu",
+    "college": "CSET",
+    "filename": "DalephineDavis.html"
+  },
+  {
+    "name": "James Ejiwale",
+    "department": "Industrial Systems & Technology",
+    "email": "james.a.ejiwale@jsums.edu",
+    "college": "CSET",
+    "filename": "JamesEjiwale.html"
+  },
+  {
+    "name": "Mehri Fadavi",
+    "department": "Chemistry, Physics,  and Atmospheric Sciences",
+    "email": "mfadavi@jsums.edu",
+    "college": "CSET",
+    "filename": "MehriFadavi.html"
+  },
+  {
+    "name": "Ibrahim Farah",
+    "department": "Biology",
+    "email": "ibrahim.o.farah@jsums.edu",
+    "college": "CSET",
+    "filename": "IbrahimFarah.html"
+  },
+  {
+    "name": "Roosevelt Gentry",
+    "department": "Mathematics & Statistical Sciences",
+    "email": "roosevelt.gentry@jsums.edu",
+    "college": "CSET",
+    "filename": "RooseveltGentry.html"
+  },
+  {
+    "name": "Barbara Graham",
+    "department": "Biology",
+    "email": "barbara.e.graham@jsums.edu",
+    "college": "CSET",
+    "filename": "BarbaraGraham.html"
+  },
+  {
+    "name": "Fengxiang Han",
+    "department": "Chemistry & Biochemistry",
+    "email": "fengxiang.han@jsums.edu",
+    "college": "CSET",
+    "filename": "FengxiangHan.html"
+  },
+  {
+    "name": "Glake Hill",
+    "department": "Chemistry & Biochemistry",
+    "email": "glake.a.hill@jsums.edu",
+    "college": "CSET",
+    "filename": "GlakeHill.html"
+  },
+  {
+    "name": "Sungbum Hong",
+    "department": "Computer Science",
+    "email": "sungbum.hong@jsums.edu",
+    "college": "CSET",
+    "filename": "SungbumHong.html"
+  },
+  {
+    "name": "Alamgir Hossain",
+    "department": "Chemistry & Biochemistry",
+    "email": "alamgir.hossain@jsums.edu",
+    "college": "CSET",
+    "filename": "AlamgirHossain.html"
+  },
+  {
+    "name": "Carolyn Howard",
+    "department": "Biology",
+    "email": "carolyn.b.howard@jsums.edu",
+    "college": "CSET",
+    "filename": "CarolynHoward.html"
+  },
+  {
+    "name": "Hung-Chung Huang",
+    "department": "Biology",
+    "email": "hung-chung.huang@jsums.edu",
+    "college": "CSET",
+    "filename": "Hung-ChungHuang.html"
+  },
+  {
+    "name": "Ming-Ju Huang",
+    "department": "Chemistry & Biochemistry",
+    "email": "ming-ju.huang@jsums.edu",
+    "college": "CSET",
+    "filename": "Ming-JuHuang.html"
+  },
+  {
+    "name": "Farah Ibrahim",
+    "department": "Biology",
+    "email": "ibrahim.o.farah@jsums.edu",
+    "college": "CSET",
+    "filename": "FarahIbrahim.html"
+  },
+  {
+    "name": "Jacqueline Jackson",
+    "department": "Computer Science",
+    "email": "jacqueline.m.jackson@jsums.edu",
+    "college": "CSET",
+    "filename": "JacquelineJackson.html"
+  },
+  {
+    "name": "Alicia Jefferson",
+    "department": "Mathematics & Statistical Sciences",
+    "email": "alicia.k.jefferson@jsums.edu",
+    "college": "CSET",
+    "filename": "AliciaJefferson.html"
+  },
+  {
+    "name": "Ramzi Kafoury",
+    "department": "CSET",
+    "email": "ramzi.kafoury@jsums.edu",
+    "college": "CSET",
+    "filename": "RamziKafoury.html"
+  },
+  {
+    "name": "Mohammad Khan",
+    "department": "Civil & Environmental Engineering",
+    "email": "mohammad_sadik.khan@jsums.edu",
+    "college": "CSET",
+    "filename": "MohammadKhan.html"
+  },
+  {
+    "name": "Tor Kwembe",
+    "department": "Mathematics & Statistical Sciences",
+    "email": "tor.a.kwembe@jsums.edu",
+    "college": "CSET",
+    "filename": "TorKwembe.html"
+  },
+  {
+    "name": "Ken Lee",
+    "department": "Chemistry & Biochemistry",
+    "email": "ken.s.lee@jsums.edu",
+    "college": "CSET",
+    "filename": "KenLee.html"
+  },
+  {
+    "name": "Danuta Leszczynska",
+    "department": "Civil & Environmental Engineering",
+    "email": "danuta.leszczynska@jsums.edu",
+    "college": "CSET",
+    "filename": "DanutaLeszczynska.html"
+  },
+  {
+    "name": "Jerzy Leszczynski",
+    "department": "Chemistry & Biochemistry",
+    "email": "jerzy.r.leszczynski@jsums.edu",
+    "college": "CSET",
+    "filename": "JerzyLeszczynski.html"
+  },
+  {
+    "name": "Yadong Li",
+    "department": "Civil & Environmental Engineering",
+    "email": "yadong.li@jsums.edu",
+    "college": "CSET",
+    "filename": "YadongLi.html"
+  },
+  {
+    "name": "Xuejun Liang",
+    "department": "Computer Science",
+    "email": "xuejun.liang@jsums.edu",
+    "college": "CSET",
+    "filename": "XuejunLiang.html"
+  },
+  {
+    "name": "Yiming Liu",
+    "department": "Chemistry & Biochemistry",
+    "email": "yiming.liu@jsums.edu",
+    "college": "CSET",
+    "filename": "YimingLiu.html"
+  },
+  {
+    "name": "Mahmoud Manzoul",
+    "department": "Electrical & Computer Engineering",
+    "email": "mahmoud.a.manzoul@jsums.edu",
+    "college": "CSET",
+    "filename": "MahmoudManzoul.html"
+  },
+  {
+    "name": "Natarajan Meghanathan",
+    "department": "Computer Science",
+    "email": "natarajan.meghanathan@jsums.edu",
+    "college": "CSET",
+    "filename": "NatarajanMeghanathan.html"
+  },
+  {
+    "name": "Jessica Murphy",
+    "department": "Industrial Systems & Technology",
+    "email": "jessica.l.murphy@jsums.edu",
+    "college": "CSET",
+    "filename": "JessicaMurphy.html"
+  },
+  {
+    "name": "Felicite-Kamdem Noubissi",
+    "department": "Biology",
+    "email": "felicite.noubissi_kamdem@jsums.edu",
+    "college": "CSET",
+    "filename": "Felicite-KamdemNoubissi.html"
+  },
+  {
+    "name": "Godwin Offiah",
+    "department": "Computer Science",
+    "email": "godwin.offiah@jsums.edu",
+    "college": "CSET",
+    "filename": "GodwinOffiah.html"
+  },
+  {
+    "name": "Maricica Pacurari",
+    "department": "Biology",
+    "email": "maricica.pacurari@jsums.edu",
+    "college": "CSET",
+    "filename": "MaricicaPacurari.html"
+  },
+  {
+    "name": "Anita Patlolla",
+    "department": "Biology/Env.Sci Ph.D. Program",
+    "email": "anita.k.patlolla@jsums.edu",
+    "college": "CSET",
+    "filename": "AnitaPatlolla.html"
+  },
+  {
+    "name": "Tzusheng Pei",
+    "department": "Computer Science",
+    "email": "tzusheng.pei@jsums.edu",
+    "college": "CSET",
+    "filename": "TzushengPei.html"
+  },
+  {
+    "name": "Xuesheng Qian",
+    "department": "Civil & Environmental Engineering",
+    "email": "clarkqianxuesheng@163.com",
+    "college": "CSET",
+    "filename": "XueshengQian.html"
+  },
+  {
+    "name": "Paresh Ray",
+    "department": "Chemistry & Biochemistry",
+    "email": "paresh.c.ray@jsums.edu",
+    "college": "CSET",
+    "filename": "PareshRay.html"
+  },
+  {
+    "name": "Remata Reddy",
+    "department": "Physics, Atmospheric Sciences and Geoscience",
+    "email": "remata.s.reddy@jsums.edu",
+    "college": "CSET",
+    "filename": "RemataReddy.html"
+  },
+  {
+    "name": "HuiRu Shih",
+    "department": "Industrial Systems & Technology",
+    "email": "huiru.shih@jsums.edu",
+    "college": "CSET",
+    "filename": "HuiRuShih.html"
+  },
+  {
+    "name": "Jacqueline Stevens",
+    "department": "Biology",
+    "email": "jacqueline.j.stevens@jsums.edu",
+    "college": "CSET",
+    "filename": "JacquelineStevens.html"
+  },
+  {
+    "name": "Jana Talley",
+    "department": "Mathematics & Statistical Sciences",
+    "email": "jana.r.talley@jsums.edu",
+    "college": "CSET",
+    "filename": "JanaTalley.html"
+  },
+  {
+    "name": "April Tanner",
+    "department": "Computer Science",
+    "email": "april.l.tanner@jsums.edu",
+    "college": "CSET",
+    "filename": "AprilTanner.html"
+  },
+  {
+    "name": "Tammi Taylor",
+    "department": "Biology",
+    "email": "tammi.m.taylor@jsums.edu",
+    "college": "CSET",
+    "filename": "TammiTaylor.html"
+  },
+  {
+    "name": "Brent Thoma",
+    "department": "Biology",
+    "email": "brent.p.thoma@jsums.edu",
+    "college": "CSET",
+    "filename": "BrentThoma.html"
+  },
+  {
+    "name": "Shuang Tu",
+    "department": "Electrical & Computer Engineering",
+    "email": "shuang.z.tu@jsums.edu",
+    "college": "CSET",
+    "filename": "ShuangTu.html"
+  },
+  {
+    "name": "Francis Tuluri",
+    "department": "Industrial Systems & Technology",
+    "email": "francis.tuluri@jsums.edu",
+    "college": "CSET",
+    "filename": "FrancisTuluri.html"
+  },
+  {
+    "name": "Ramaiyer Venkatraman",
+    "department": "Chemistry & Biochemistry",
+    "email": "ramaiyer.venkatraman@jsums.edu",
+    "college": "CSET",
+    "filename": "RamaiyerVenkatraman.html"
+  },
+  {
+    "name": "Celestin Wafo Soh",
+    "department": "Mathematics & Statistical Sciences",
+    "email": "celestin.wafo_soh@jsums.edu",
+    "college": "CSET",
+    "filename": "CelestinWafoSoh.html"
+  },
+  {
+    "name": "Wilbur Walters, Jr",
+    "department": "CSET",
+    "email": "wilbur.l.walters@jsums.edu",
+    "college": "CSET",
+    "filename": "WilburWalters,Jr.html"
+  },
+  {
+    "name": "Ningning Wang",
+    "department": "Mathematics & Statistical Sciences",
+    "email": "ningning.wang@jsums.edu",
+    "college": "CSET",
+    "filename": "NingningWang.html"
+  },
+  {
+    "name": "John Watts",
+    "department": "Chemistry & Biochemistry",
+    "email": "john.d.watts@jsums.edu",
+    "college": "CSET",
+    "filename": "JohnWatts.html"
+  },
+  {
+    "name": "Robert Whalin",
+    "department": "Civil & Environmental Engineering/Coastal Hazards Center of Excellence",
+    "email": "robert.w.whalin@jsums.edu",
+    "college": "CSET",
+    "filename": "RobertWhalin.html"
+  },
+  {
+    "name": "Terrence Wright",
+    "department": "Biology",
+    "email": "terrence.twright@jsums.edu",
+    "college": "CSET",
+    "filename": "TerrenceWright.html"
+  },
+  {
+    "name": "Carmen Wright",
+    "department": "Mathematics & Statistical Sciences",
+    "email": "carmen.m.wright@jsums.edu",
+    "college": "CSET",
+    "filename": "CarmenWright.html"
+  },
+  {
+    "name": "Xing Yang",
+    "department": "Mathematics & Statistical Sciences",
+    "email": "xing.yang@jsums.edu",
+    "college": "CSET",
+    "filename": "XingYang.html"
+  },
+  {
+    "name": "Zhenbu Zhang",
+    "department": "Mathematics & Statistical Sciences",
+    "email": "zhenbu.zhang@jsums.edu",
+    "college": "CSET",
+    "filename": "ZhenbuZhang.html"
+  },
+  {
+    "name": "Yongfeng Zhao",
+    "department": "Chemistry & Biochemistry",
+    "email": "yongfeng.zhao@jsums.edu",
+    "college": "CSET",
+    "filename": "YongfengZhao.html"
+  },
+  {
+    "name": "Saundra Thompson-McFarland",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "saundra.m.thompson@jsums.edu",
+    "college": "COB",
+    "filename": "SaundraThompson-McFarland.html"
+  },
+  {
+    "name": "Reena Ahuja ",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "reena.ahuja@jsums.edu",
+    "college": "COB",
+    "filename": "ReenaAhuja.html"
+  },
+  {
+    "name": "Okechukwu Anyamele",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "okechukwu.d.anyamele@jsums.edu",
+    "college": "COB",
+    "filename": "OkechukwuAnyamele.html"
+  },
+  {
+    "name": "Jean Claude",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "jean-claude.assad@jsums.edu",
+    "college": "COB",
+    "filename": "JeanClaude.html"
+  },
+  {
+    "name": "Dal Didia",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "\u00a0dal.o.didia@jsums.edu",
+    "college": "COB",
+    "filename": "DalDidia.html"
+  },
+  {
+    "name": "Fidel Ezeala-Harrison",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "fidel.ezeala-harrison@jsums.edu",
+    "college": "COB",
+    "filename": "FidelEzeala-Harrison.html"
+  },
+  {
+    "name": "Maury Granger",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "\u00a0maury.granger@jsums.edu",
+    "college": "COB",
+    "filename": "MauryGranger.html"
+  },
+  {
+    "name": "Hyonsong Chong",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "\u00a0hyonsong.chong@jsums.edu",
+    "college": "COB",
+    "filename": "HyonsongChong.html"
+  },
+  {
+    "name": "Hyunseob Kim",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "\u00a0Hyunseob.kim@jsums.edu",
+    "college": "COB",
+    "filename": "HyunseobKim.html"
+  },
+  {
+    "name": "Young Rhee",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "young_won.rhee@jsums.edu",
+    "college": "COB",
+    "filename": "YoungRhee.html"
+  },
+  {
+    "name": "Alisa Mosley",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "alisa.l.mosley@jsums.edu\u00a0",
+    "college": "COB",
+    "filename": "AlisaMosley.html"
+  },
+  {
+    "name": "Edith Davidson",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "edith.f.davidson@jsums.edu",
+    "college": "COB",
+    "filename": "EdithDavidson.html"
+  },
+  {
+    "name": "Sadia Khan",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "sadia.y.khan@jsums.edu",
+    "college": "COB",
+    "filename": "SadiaKhan.html"
+  },
+  {
+    "name": "Palaniappan Thiagarajan",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "palaniappan.thiagarajan@jsums.edu",
+    "college": "COB",
+    "filename": "PalaniappanThiagarajan.html"
+  },
+  {
+    "name": "Intaher Ambe",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "marcus.ambe@jsums.edu",
+    "college": "COB",
+    "filename": "IntaherAmbe.html"
+  },
+  {
+    "name": "Rishabh Rana",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "rishabh.rana@jsums.edu",
+    "college": "COB",
+    "filename": "RishabhRana.html"
+  },
+  {
+    "name": "Tasha Fogg",
+    "department": "Department of Business Administration (Economics, Management, Marketing, Supply Chain Mngt.)",
+    "email": "Tasha.fogg@jsums.edu",
+    "college": "COB",
+    "filename": "TashaFogg.html"
+  },
+  {
+    "name": "Bobbie Daniels",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "bobbie.w.daniels@jsums.edu",
+    "college": "COB",
+    "filename": "BobbieDaniels.html"
+  },
+  {
+    "name": "Nizar Alsharari",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "nizar.m.alsharari@jsums.edu",
+    "college": "COB",
+    "filename": "NizarAlsharari.html"
+  },
+  {
+    "name": "Lydia Didia",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "lydia.n.didia@jsums.edu",
+    "college": "COB",
+    "filename": "LydiaDidia.html"
+  },
+  {
+    "name": "Lori Liddell-Jackson",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "lori.t.liddell@jsums.edu",
+    "college": "COB",
+    "filename": "LoriLiddell-Jackson.html"
+  },
+  {
+    "name": "Candias Maiden",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "candias.b.maiden@jsums.edu",
+    "college": "COB",
+    "filename": "CandiasMaiden.html"
+  },
+  {
+    "name": "Mahmoud Nabulsi",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "mahmoud.k.nabulsi@jsums.edu",
+    "college": "COB",
+    "filename": "MahmoudNabulsi.html"
+  },
+  {
+    "name": "Mark Morgan",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "mark.i.morgan@jsums.edu",
+    "college": "COB",
+    "filename": "MarkMorgan.html"
+  },
+  {
+    "name": "Larry Day",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "larry.l.day@jsums.edu",
+    "college": "COB",
+    "filename": "LarryDay.html"
+  },
+  {
+    "name": "Geungu Yu",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "geungu.yu@jsums.edu",
+    "college": "COB",
+    "filename": "GeunguYu.html"
+  },
+  {
+    "name": "Donald Causey",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "donald.causey@jsums.edu",
+    "college": "COB",
+    "filename": "DonaldCausey.html"
+  },
+  {
+    "name": "Sharon Simmons",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "sharon.simmons@jsums.edu",
+    "college": "COB",
+    "filename": "SharonSimmons.html"
+  },
+  {
+    "name": "Jasmine Winfrey",
+    "department": "Department of Accounting, Finance, and Entrepreneurship",
+    "email": "jasmine.m.winfrey@jsums.edu\u00a0",
+    "college": "COB",
+    "filename": "JasmineWinfrey.html"
+  },
+  {
+    "name": "Dion Porter",
+    "department": "Department of Counseling, Rehabilitation, and Psychometric Services",
+    "email": "dion.porter@jsums.edu",
+    "college": "CEHD",
+    "filename": "DionPorter.html"
+  },
+  {
+    "name": "Gloria\u00a0 Dansby-Giles",
+    "department": "Department of Counseling, Rehabilitation, and Psychometric Services",
+    "email": "gloria.f.dansby-giles@jsums.edu",
+    "college": "CEHD",
+    "filename": "Gloria\u00a0Dansby-Giles.html"
+  },
+  {
+    "name": "Ronica Branson",
+    "department": "Department of Counseling, Rehabilitation, and Psychometric Services",
+    "email": "ronica.d.arnold@jsums.edu",
+    "college": "CEHD",
+    "filename": "RonicaBranson.html"
+  },
+  {
+    "name": "Regina Fults-McMurthey",
+    "department": "Department of Counseling, Rehabilitation, and Psychometric Services",
+    "email": "regina.s.fults-mcmurtery@jsums.edu",
+    "college": "CEHD",
+    "filename": "ReginaFults-McMurthey.html"
+  },
+  {
+    "name": "Frank Giles",
+    "department": "Department of Counseling, Rehabilitation, and Psychometric Services",
+    "email": "frank.l.giles@jsums.edu",
+    "college": "CEHD",
+    "filename": "FrankGiles.html"
+  },
+  {
+    "name": "Lakitta Johnson ",
+    "department": "Department of Counseling, Rehabilitation, and Psychometric Services",
+    "email": "lakitta.d.johnson@jsums.edu",
+    "college": "CEHD",
+    "filename": "LakittaJohnson.html"
+  },
+  {
+    "name": "Karen Linstrum",
+    "department": "Department of Counseling, Rehabilitation, and Psychometric Services",
+    "email": "karen.s.linstrum@jsums.edu",
+    "college": "CEHD",
+    "filename": "KarenLinstrum.html"
+  },
+  {
+    "name": "Amirah Nelson",
+    "department": "Department of Counseling, Rehabilitation, and Psychometric Services",
+    "email": "amirah.r.nelson@jsums.edu",
+    "college": "CEHD",
+    "filename": "AmirahNelson.html"
+  },
+  {
+    "name": "Nanolla Yazdani",
+    "department": "Department of Counseling, Rehabilitation, and Psychometric Services",
+    "email": "nanolla.yazdani@jsums.edu",
+    "college": "CEHD",
+    "filename": "NanollaYazdani.html"
+  },
+  {
+    "name": "Tabitha Otieno",
+    "department": "Department of Educational, Multicultural, and Exceptional Studies",
+    "email": "tabitha.n.otieno@jsums.edu",
+    "college": "CEHD",
+    "filename": "TabithaOtieno.html"
+  },
+  {
+    "name": "Alberta Yeboah-Ohwafasa",
+    "department": "Department of Educational, Multicultural, and Exceptional Studies",
+    "email": "alberta.yeboah-ohwofasa@jsums.edu",
+    "college": "CEHD",
+    "filename": "AlbertaYeboah-Ohwafasa.html"
+  },
+  {
+    "name": "Doreen Myrie",
+    "department": "Department of Educational, Multicultural, and Exceptional Studies",
+    "email": "doreen.n.myrie@jsums.edu",
+    "college": "CEHD",
+    "filename": "DoreenMyrie.html"
+  },
+  {
+    "name": "Dawn Latiker",
+    "department": "Department of Educational, Multicultural, and Exceptional Studies",
+    "email": "dawn.m.latiker@jsums.edu",
+    "college": "CEHD",
+    "filename": "DawnLatiker.html"
+  },
+  {
+    "name": "Deidre\u00a0 Wheaton",
+    "department": "School of Lifelong Learning",
+    "email": "deidre.l.wheaton@jsums.edu",
+    "college": "CEHD",
+    "filename": "Deidre\u00a0Wheaton.html"
+  },
+  {
+    "name": "Jie Ke",
+    "department": "School of Lifelong Learning",
+    "email": "jie.ke@jsums.edu",
+    "college": "CEHD",
+    "filename": "JieKe.html"
+  },
+  {
+    "name": "Hilliard\u00a0 Lackey",
+    "department": "School of Lifelong Learning",
+    "email": "hilliard.l.lackey@jsums.edu",
+    "college": "CEHD",
+    "filename": "Hilliard\u00a0Lackey.html"
+  },
+  {
+    "name": "Olga\u00a0 Shugurova",
+    "department": "School of Lifelong Learning",
+    "email": "olga.shugurova@jsums.edu",
+    "college": "CEHD",
+    "filename": "Olga\u00a0Shugurova.html"
+  },
+  {
+    "name": "Albert Carter",
+    "department": "Department of Educational Administration, Foundations, and Research",
+    "email": "albert.w.carter@jsums.edu",
+    "college": "CEHD",
+    "filename": "AlbertCarter.html"
+  },
+  {
+    "name": "Chander Lewis",
+    "department": "Department of Educational Administration, Foundations, and Research",
+    "email": "chandar.t.lewis@jsums.edu",
+    "college": "CEHD",
+    "filename": "ChanderLewis.html"
+  },
+  {
+    "name": "Jeton\u00a0 McClinton",
+    "department": "Department of Educational Administration, Foundations, and Research",
+    "email": "jeton.mcclinton@jsums.edu",
+    "college": "CEHD",
+    "filename": "Jeton\u00a0McClinton.html"
+  },
+  {
+    "name": "Sidney\u00a0 McLaurin",
+    "department": "Department of Educational Administration, Foundations, and Research",
+    "email": "sidney.e.mclaurin@jsums.edu",
+    "college": "CEHD",
+    "filename": "Sidney\u00a0McLaurin.html"
+  },
+  {
+    "name": "Benjamin\u00a0 Ngwudike",
+    "department": "Department of Educational Administration, Foundations, and Research",
+    "email": "benjamin.c.ngwudike@jsums.edu",
+    "college": "CEHD",
+    "filename": "Benjamin\u00a0Ngwudike.html"
+  },
+  {
+    "name": "Jennifer\u00a0 Wallace",
+    "department": "Department of Educational Administration, Foundations, and Research",
+    "email": "jennifer.k.young@jsums.edu",
+    "college": "CEHD",
+    "filename": "Jennifer\u00a0Wallace.html"
+  },
+  {
+    "name": "Annyasha\u00a0 Mukherjee",
+    "department": "Department of Educational Administration, Foundations, and Research",
+    "email": "annyasha.mukherjee@jsums.edu",
+    "college": "CEHD",
+    "filename": "Annyasha\u00a0Mukherjee.html"
+  },
+  {
+    "name": "Stephanie\u00a0 Davidson",
+    "department": "Department of Elementary and Early Childhood Education",
+    "email": "stephanie.r.davidson@jsums.edu",
+    "college": "CEHD",
+    "filename": "Stephanie\u00a0Davidson.html"
+  },
+  {
+    "name": "Kenesha\u00a0 Bennett",
+    "department": "Department of Elementary and Early Childhood Education",
+    "email": "kanesha.n.bennett@jsums.edu",
+    "college": "CEHD",
+    "filename": "Kenesha\u00a0Bennett.html"
+  },
+  {
+    "name": "Juanita\u00a0 Johnson",
+    "department": "Department of Elementary and Early Childhood Education",
+    "email": "juanita.e.johnson@jsums.edu",
+    "college": "CEHD",
+    "filename": "Juanita\u00a0Johnson.html"
+  },
+  {
+    "name": "James\u00a0 Robinson",
+    "department": "Department of Health, Physical Education & Recreation",
+    "email": "james.h.robinson@jsums.edu",
+    "college": "CEHD",
+    "filename": "James\u00a0Robinson.html"
+  },
+  {
+    "name": "Michelle\u00a0 Houston",
+    "department": "Department of Health, Physical Education & Recreation",
+    "email": "jonathan.m.houston@jsums.edu",
+    "college": "CEHD",
+    "filename": "Michelle\u00a0Houston.html"
+  },
+  {
+    "name": "Brieah\u00a0 Hudson\u00a0",
+    "department": "Department of Health, Physical Education & Recreation",
+    "email": "Brieah.d.hudson@jsums.edu",
+    "college": "CEHD",
+    "filename": "Brieah\u00a0Hudson\u00a0.html"
+  },
+  {
+    "name": "Joon Young Lee",
+    "department": "Department of Health, Physical Education & Recreation",
+    "email": "joon_young.lee@jsums.edu",
+    "college": "CEHD",
+    "filename": "JoonYoungLee.html"
+  },
+  {
+    "name": "Mary Shaw",
+    "department": "Behavioral and Environmental Health",
+    "email": "mary.shaw@jsums.edu",
+    "college": "CHS",
+    "filename": "MaryShaw.html"
+  },
+  {
+    "name": "Luma\u00a0 Akil",
+    "department": "Behavioral and Environmental Health",
+    "email": "luma.akil@jsums.edu",
+    "college": "CHS",
+    "filename": "Luma\u00a0Akil.html"
+  },
+  {
+    "name": "Angela\u00a0 Omondi",
+    "department": "Behavioral and Environmental Health",
+    "email": "angela.a.omondi@students.jsums.edu",
+    "college": "CHS",
+    "filename": "Angela\u00a0Omondi.html"
+  },
+  {
+    "name": "Jennifer\u00a0 Scott",
+    "department": "Behavioral and Environmental Health",
+    "email": "jennifer.m.scott@jsums.edu",
+    "college": "CHS",
+    "filename": "Jennifer\u00a0Scott.html"
+  },
+  {
+    "name": "Sohpia\u00a0 Leggett",
+    "department": "Behavioral and Environmental Health",
+    "email": "sophia.s.leggett@jsums.edu",
+    "college": "CHS",
+    "filename": "Sohpia\u00a0Leggett.html"
+  },
+  {
+    "name": "Whitney\u00a0 Perkins",
+    "department": "Communicative Disorders",
+    "email": "Whitney.D.Perkins@jsums.edu",
+    "college": "CHS",
+    "filename": "Whitney\u00a0Perkins.html"
+  },
+  {
+    "name": "Brandi Newkirk-Turner",
+    "department": "Communicative Disorders",
+    "email": "Brandi.L.Newkirk@jsums.edu",
+    "college": "CHS",
+    "filename": "BrandiNewkirk-Turner.html"
+  },
+  {
+    "name": "Jennifer\u00a0 Wiles",
+    "department": "Communicative Disorders",
+    "email": "jennifer.e.wiles@jsums.edu",
+    "college": "CHS",
+    "filename": "Jennifer\u00a0Wiles.html"
+  },
+  {
+    "name": "Amber\u00a0 Denham",
+    "department": "Communicative Disorders",
+    "email": "amber.m.denham@jsums.edu",
+    "college": "CHS",
+    "filename": "Amber\u00a0Denham.html"
+  },
+  {
+    "name": "Dawn Stanley",
+    "department": "Communicative Disorders",
+    "email": "dawn.m.stanley@jsums.edu",
+    "college": "CHS",
+    "filename": "DawnStanley.html"
+  },
+  {
+    "name": "Susannah\u00a0 Silvia",
+    "department": "Communicative Disorders",
+    "email": "shirley.r.stuart@jsums.edu",
+    "college": "CHS",
+    "filename": "Susannah\u00a0Silvia.html"
+  },
+  {
+    "name": "Katherine\u00a0 Herrington",
+    "department": "Communicative Disorders",
+    "email": "katherine.r.harrington@jsums.edu",
+    "college": "CHS",
+    "filename": "Katherine\u00a0Herrington.html"
+  },
+  {
+    "name": "Sheri\u00a0 Ross",
+    "department": "Communicative Disorders",
+    "email": "sheri.ross@jsums.edu",
+    "college": "CHS",
+    "filename": "Sheri\u00a0Ross.html"
+  },
+  {
+    "name": "Warren Brown",
+    "department": "Communicative Disorders",
+    "email": "warren.c.brown@jsums.edu",
+    "college": "CHS",
+    "filename": "WarrenBrown.html"
+  },
+  {
+    "name": "Niya\u00a0 Hopkins",
+    "department": "Communicative Disorders",
+    "email": "niya.c.hopkins@jsums.edu",
+    "college": "CHS",
+    "filename": "Niya\u00a0Hopkins.html"
+  },
+  {
+    "name": "Marinelle\u00a0 Payton",
+    "department": "Epidemiology and Biostatistics",
+    "email": "marinelle.payton@jsums.edu",
+    "college": "CHS",
+    "filename": "Marinelle\u00a0Payton.html"
+  },
+  {
+    "name": "Clifton\u00a0 Addison",
+    "department": "Epidemiology and Biostatistics",
+    "email": "clifton.addison@jsums.edu",
+    "college": "CHS",
+    "filename": "Clifton\u00a0Addison.html"
+  },
+  {
+    "name": "Azad\u00a0 Bhuiyan",
+    "department": "Epidemiology and Biostatistics",
+    "email": "azad.r.bhuiyan@jsums.edu",
+    "college": "CHS",
+    "filename": "Azad\u00a0Bhuiyan.html"
+  },
+  {
+    "name": "Jung Lee",
+    "department": "Epidemiology and Biostatistics",
+    "email": "jung.h.lee@jsums.edu",
+    "college": "CHS",
+    "filename": "JungLee.html"
+  },
+  {
+    "name": "Vincent\u00a0 Mendy",
+    "department": "Epidemiology and Biostatistics",
+    "email": "vincent.l.mendy@jsums.edu",
+    "college": "CHS",
+    "filename": "Vincent\u00a0Mendy.html"
+  },
+  {
+    "name": "Zhen\u00a0 Zhang",
+    "department": "Epidemiology and Biostatistics",
+    "email": "zhen.zhang@jsums.edu",
+    "college": "CHS",
+    "filename": "Zhen\u00a0Zhang.html"
+  },
+  {
+    "name": "Anthony\u00a0 Sallar",
+    "department": "Epidemiology and Biostatistics",
+    "email": "anthony.sallar@jsums.edu",
+    "college": "CHS",
+    "filename": "Anthony\u00a0Sallar.html"
+  },
+  {
+    "name": "Yalanda\u00a0 Barner",
+    "department": "Health Policy and Management",
+    "email": "yalanda.m.barner@jsums.edu",
+    "college": "CHS",
+    "filename": "Yalanda\u00a0Barner.html"
+  },
+  {
+    "name": "Mustafa\u00a0 Younis",
+    "department": "Health Policy and Management",
+    "email": "mustafa.younis@jsums.edu",
+    "college": "CHS",
+    "filename": "Mustafa\u00a0Younis.html"
+  },
+  {
+    "name": "Alyce Hays",
+    "department": "Health Policy and Management",
+    "email": "alyce.l.hays@jsums.edu",
+    "college": "CHS",
+    "filename": "AlyceHays.html"
+  },
+  {
+    "name": "Latarsha\u00a0 Michael",
+    "department": "Health Policy and Management",
+    "email": "latarsha.h.michael@jsums.edu",
+    "college": "CHS",
+    "filename": "Latarsha\u00a0Michael.html"
+  },
+  {
+    "name": "Edith\u00a0 Offiah",
+    "department": "Health Policy and Management",
+    "email": "edith.c.offiah@jsums.edu",
+    "college": "CHS",
+    "filename": "Edith\u00a0Offiah.html"
+  },
+  {
+    "name": "Hailay\u00a0 Abebe",
+    "department": "Health Policy and Management",
+    "email": "hailay.abebe@jsums.edu",
+    "college": "CHS",
+    "filename": "Hailay\u00a0Abebe.html"
+  },
+  {
+    "name": "Kristin Richards ",
+    "department": "Social Work",
+    "email": "kristin.v.richards@jsums.edu",
+    "college": "CHS",
+    "filename": "KristinRichards.html"
+  },
+  {
+    "name": "Paula Boyd",
+    "department": "Social Work",
+    "email": "paula.b.boyd@jsums.edu",
+    "college": "CHS",
+    "filename": "PaulaBoyd.html"
+  },
+  {
+    "name": "Trenia Allen",
+    "department": "Social Work",
+    "email": "trenia.l.allen@jsums.edu",
+    "college": "CHS",
+    "filename": "TreniaAllen.html"
+  },
+  {
+    "name": "Brian Anderson",
+    "department": "Social Work",
+    "email": "brian.e.anderson@jsums.edu",
+    "college": "CHS",
+    "filename": "BrianAnderson.html"
+  },
+  {
+    "name": "Bernice McKenny",
+    "department": "Social Work",
+    "email": "bernice.g.mckenny@jsums.edu",
+    "college": "CHS",
+    "filename": "BerniceMcKenny.html"
+  },
+  {
+    "name": "Sherita Tompkins",
+    "department": "Social Work",
+    "email": "sherita.l.williams-tompkins@jsums.edu",
+    "college": "CHS",
+    "filename": "SheritaTompkins.html"
+  },
+  {
+    "name": "Terrell Brown",
+    "department": "Social Work",
+    "email": "terrell.d.brown@jsums.edu",
+    "college": "CHS",
+    "filename": "TerrellBrown.html"
+  },
+  {
+    "name": "Trina Toles",
+    "department": "Social Work",
+    "email": "trina.v.toles@jsums.edu",
+    "college": "CHS",
+    "filename": "TrinaToles.html"
+  },
+  {
+    "name": "Pedro Hernandez",
+    "department": "Social Work",
+    "email": "pedro.m.hernandez@jsums.edu",
+    "college": "CHS",
+    "filename": "PedroHernandez.html"
+  },
+  {
+    "name": "Jaegoo Lee",
+    "department": "Social Work",
+    "email": "jaegoo.lee@jsums.edu",
+    "college": "CHS",
+    "filename": "JaegooLee.html"
+  },
+  {
+    "name": "Julie Schroeder",
+    "department": "Social Work",
+    "email": "julie.a.schroeder@jsums.edu",
+    "college": "CHS",
+    "filename": "JulieSchroeder.html"
+  },
+  {
+    "name": "Candace Riddley",
+    "department": "Social Work",
+    "email": "candace.l.riddley@jsums.edu",
+    "college": "CHS",
+    "filename": "CandaceRiddley.html"
+  },
+  {
+    "name": "Eunkyung Yoon",
+    "department": "Social Work",
+    "email": "eunkyung.yoon@jsums.edu",
+    "college": "CHS",
+    "filename": "EunkyungYoon.html"
+  },
+  {
+    "name": "Mark Geil",
+    "department": "Art",
+    "email": "mark.geil@jsums.edu",
+    "college": "CLA",
+    "filename": "MarkGeil.html"
+  },
+  {
+    "name": "Kenyatta\u00a0 Stewart",
+    "department": "Art",
+    "email": "kenyatta.stewart@jsums.edu",
+    "college": "CLA",
+    "filename": "Kenyatta\u00a0Stewart.html"
+  },
+  {
+    "name": "Chalmers\u00a0 Mayers",
+    "department": "Art",
+    "email": "chalmers.mayers@jsums.edu",
+    "college": "CLA",
+    "filename": "Chalmers\u00a0Mayers.html"
+  },
+  {
+    "name": "Brittany\u00a0 Myburgh",
+    "department": "Art",
+    "email": "brittany.myburgh@jsums.edu",
+    "college": "CLA",
+    "filename": "Brittany\u00a0Myburgh.html"
+  },
+  {
+    "name": "Thomas Kersen",
+    "department": "Criminal Justice and Sociology",
+    "email": "thomas.m.kersen@jsums.edu",
+    "college": "CLA",
+    "filename": "ThomasKersen.html"
+  },
+  {
+    "name": "Tiffany Hoard",
+    "department": "Criminal Justice and Sociology",
+    "email": "tiffany.l.hoard.@jsums.edu",
+    "college": "CLA",
+    "filename": "TiffanyHoard.html"
+  },
+  {
+    "name": "Consandra McNeil",
+    "department": "Criminal Justice and Sociology",
+    "email": "cosandra.mcneal@jsums.edu",
+    "college": "CLA",
+    "filename": "ConsandraMcNeil.html"
+  },
+  {
+    "name": "Etta Morgan",
+    "department": "Criminal Justice and Sociology",
+    "email": "etta.morgan@jsums.edu",
+    "college": "CLA",
+    "filename": "EttaMorgan.html"
+  },
+  {
+    "name": "Xialoi Su",
+    "department": "Criminal Justice and Sociology",
+    "email": "xiaoli.su@jsums.edu",
+    "college": "CLA",
+    "filename": "XialoiSu.html"
+  },
+  {
+    "name": "Vineeth Vijayan",
+    "department": "Criminal Justice and Sociology",
+    "email": "Vineeth.vijayan@jsums.edu",
+    "college": "CLA",
+    "filename": "VineethVijayan.html"
+  },
+  {
+    "name": "Kevin Lavine",
+    "department": "Criminal Justice and Sociology",
+    "email": "kevin.d.lavine@jsums.edu",
+    "college": "CLA",
+    "filename": "KevinLavine.html"
+  },
+  {
+    "name": "Mark Anthony",
+    "department": "Criminal Justice and Sociology",
+    "email": "mark.anthony@jsums.edu",
+    "college": "CLA",
+    "filename": "MarkAnthony.html"
+  },
+  {
+    "name": "La\u2019Quisha\u00a0 Gatson",
+    "department": "Criminal Justice and Sociology",
+    "email": "laquisha.l.gatson@jsums.edu",
+    "college": "CLA",
+    "filename": "La\u2019Quisha\u00a0Gatson.html"
+  },
+  {
+    "name": "Gina Hamilton",
+    "department": "Criminal Justice and Sociology",
+    "email": "gina.e.hamilton@jsums.edu",
+    "college": "CLA",
+    "filename": "GinaHamilton.html"
+  },
+  {
+    "name": "Andrea Harris",
+    "department": "Criminal Justice and Sociology",
+    "email": "J00015042@jsums.edu",
+    "college": "CLA",
+    "filename": "AndreaHarris.html"
+  },
+  {
+    "name": "Katrena Harris",
+    "department": "Criminal Justice and Sociology",
+    "email": "katrena.d.harris@jsums.edu",
+    "college": "CLA",
+    "filename": "KatrenaHarris.html"
+  },
+  {
+    "name": "Shanta Jones",
+    "department": "Criminal Justice and Sociology",
+    "email": "shanta.s.jones@jsums.edu",
+    "college": "CLA",
+    "filename": "ShantaJones.html"
+  },
+  {
+    "name": "Patricia Jackson",
+    "department": "Criminal Justice and Sociology",
+    "email": "patricia.d.jackson@jsums.edu",
+    "college": "CLA",
+    "filename": "PatriciaJackson.html"
+  },
+  {
+    "name": "La'Tonia Harper",
+    "department": "Criminal Justice and Sociology",
+    "email": "Latonia.m.harper@jsums.edu",
+    "college": "CLA",
+    "filename": "LaToniaHarper.html"
+  },
+  {
+    "name": "Levi Levy",
+    "department": "Criminal Justice and Sociology",
+    "email": "Leroy.levy@jsums.edu",
+    "college": "CLA",
+    "filename": "LeviLevy.html"
+  },
+  {
+    "name": "Anthony Moore",
+    "department": "Criminal Justice and Sociology",
+    "email": "anthony.l.moore@jsums.edu",
+    "college": "CLA",
+    "filename": "AnthonyMoore.html"
+  },
+  {
+    "name": "Alethea Pittman",
+    "department": "Criminal Justice and Sociology",
+    "email": "alethea.pittman@jsums.edu",
+    "college": "CLA",
+    "filename": "AletheaPittman.html"
+  },
+  {
+    "name": "Benjie\u00a0 Pittman",
+    "department": "Criminal Justice and Sociology",
+    "email": "benjie.l.pittman@jsums.edu",
+    "college": "CLA",
+    "filename": "Benjie\u00a0Pittman.html"
+  },
+  {
+    "name": "Robert Wilder",
+    "department": "Criminal Justice and Sociology",
+    "email": "Robert.b.wilder@jsums.edu",
+    "college": "CLA",
+    "filename": "RobertWilder.html"
+  },
+  {
+    "name": "Ebony\u00a0 Lumumba",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "ebony.o.lumumba@jsums.edu",
+    "college": "CLA",
+    "filename": "Ebony\u00a0Lumumba.html"
+  },
+  {
+    "name": "Shanna Smith",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "shanna.l.smith@jsums.edu",
+    "college": "CLA",
+    "filename": "ShannaSmith.html"
+  },
+  {
+    "name": "RaShall Smith-Spears",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "rashell.spears@jsums.edu",
+    "college": "CLA",
+    "filename": "RaShallSmith-Spears.html"
+  },
+  {
+    "name": "Leticia Alonso",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "leticia.p.alonso@jsums.edu",
+    "college": "CLA",
+    "filename": "LeticiaAlonso.html"
+  },
+  {
+    "name": "Helen Crump",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "helen.j.crump@jsums.edu",
+    "college": "CLA",
+    "filename": "HelenCrump.html"
+  },
+  {
+    "name": "Tomaz Cunnigham",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "huie.t.cunningham@jsums.edu",
+    "college": "CLA",
+    "filename": "TomazCunnigham.html"
+  },
+  {
+    "name": "Lawanda Dickens",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "lawanda.b.dickens@jsums.edu",
+    "college": "CLA",
+    "filename": "LawandaDickens.html"
+  },
+  {
+    "name": "Demetrice Dixon",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "demetrice.d.dixon@jsums.edu",
+    "college": "CLA",
+    "filename": "DemetriceDixon.html"
+  },
+  {
+    "name": "Doris Ginn",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "doris.o.ginn@jsums.edu",
+    "college": "CLA",
+    "filename": "DorisGinn.html"
+  },
+  {
+    "name": "Monica Granderson",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "monica.l.granderson@jsums.edu",
+    "college": "CLA",
+    "filename": "MonicaGranderson.html"
+  },
+  {
+    "name": "Candice Jackson",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "candice.l.jackson@jsums.edu",
+    "college": "CLA",
+    "filename": "CandiceJackson.html"
+  },
+  {
+    "name": "Danielle Littlefield",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "danielle.littlefield@jsums.edu",
+    "college": "CLA",
+    "filename": "DanielleLittlefield.html"
+  },
+  {
+    "name": "Preselfannie McDaniels",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "preselfannie.w.mcdaniels@jsums.edu",
+    "college": "CLA",
+    "filename": "PreselfannieMcDaniels.html"
+  },
+  {
+    "name": "Craig Meyer",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "craig.a.meyer@jsums.edu",
+    "college": "CLA",
+    "filename": "CraigMeyer.html"
+  },
+  {
+    "name": "Laura Miller",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "laura.l.miller@jsums.edu",
+    "college": "CLA",
+    "filename": "LauraMiller.html"
+  },
+  {
+    "name": "Brian Phillps",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "brian.m.phillips@jsums.edu",
+    "college": "CLA",
+    "filename": "BrianPhillps.html"
+  },
+  {
+    "name": "Kathy Pitts",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "kathy.r.pitts@jsums.edu",
+    "college": "CLA",
+    "filename": "KathyPitts.html"
+  },
+  {
+    "name": "Candis Pizzetta",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "candis.p.pizzetta@jsums.edu",
+    "college": "CLA",
+    "filename": "CandisPizzetta.html"
+  },
+  {
+    "name": "Nettie Ravick",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "nettie.s.ravick@jsums.edu",
+    "college": "CLA",
+    "filename": "NettieRavick.html"
+  },
+  {
+    "name": "Maria Ricketts",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "maria.a.ricketts@jsums.edu",
+    "college": "CLA",
+    "filename": "MariaRicketts.html"
+  },
+  {
+    "name": "Johnnie Robinson",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "johnnie.b.robinson@jsums.edu",
+    "college": "CLA",
+    "filename": "JohnnieRobinson.html"
+  },
+  {
+    "name": "Sheila Salins",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "sheila.s.salins@jsums.edu",
+    "college": "CLA",
+    "filename": "SheilaSalins.html"
+  },
+  {
+    "name": "Lawrence Sledge",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "lawrence.sledge@jsums.edu",
+    "college": "CLA",
+    "filename": "LawrenceSledge.html"
+  },
+  {
+    "name": "Clauditte Tchakoua",
+    "department": "English, Foreign Languages and Speech Communications",
+    "email": "clauditte.tchakounte_tchakoua@jsums.edu",
+    "college": "CLA",
+    "filename": "ClauditteTchakoua.html"
+  }
+]
